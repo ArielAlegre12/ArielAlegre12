@@ -24,9 +24,6 @@ Me gusta aprender creando proyectos reales y explorar el ecosistema de la progra
 ![](https://github-readme-stats.vercel.app/api?username=ArielAlegre12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAlegre12&theme=dark&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ## 🚧 Featured Projects
 
 ### 🎮 Mini Games Platform
@@ -48,8 +45,6 @@ Me gusta aprender creando proyectos reales y explorar el ecosistema de la progra
 - Integración con Supabase (API)
 - Manejo de asincronía (async/await)
 - 🛠️ JavaScript, Supabase, Bootstrap
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArielAlegre12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArielAlegre619) 
