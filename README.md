@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me/ 💫 Sobre mí:
 Bachelor's student in Information Systems.<br>Interested in web development, programming logic, and building my own projects.<br>Currently working on web applications, games, and systems using JavaScript.<br>Looking to continue learning and constantly improving. / Estudiante de Licenciatura en Sistemas de la Información.<br>Interesado en desarrollo web, lógica de programación y construcción de proyectos propios.<br>Actualmente trabajando en aplicaciones web, juegos y sistemas con JavaScript.<br>Buscando seguir aprendiendo y mejorar constantemente.
 
 
